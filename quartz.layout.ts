@@ -1,14 +1,15 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import CustomTheme from "./custom-theme"
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [CustomTheme()],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/ggamel/template-knowledge-base-docs",
+      GitHub: "https://github.com/cynthiacisneros/affordable-office-fashion",
     },
   }),
 }
@@ -29,7 +30,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [
-    Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
