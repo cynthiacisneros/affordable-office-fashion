@@ -135,8 +135,7 @@ article h2#main-categories + ul > li > a.internal:hover {
   fill: var(--secondary);
 }
 
-.sidebar.right > .toc,
-.sidebar.right > .backlinks {
+.sidebar.right > .toc {
   background: color-mix(in srgb, var(--lightgray) 35%, var(--light));
   border: 1px solid var(--lightgray);
   border-radius: 18px;
