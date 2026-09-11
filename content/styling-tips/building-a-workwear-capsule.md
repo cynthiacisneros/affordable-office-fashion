@@ -10,7 +10,7 @@ A workwear capsule is not a closet full of beige clothes. To me, it is a short l
 
 I usually build around two neutral colors, one accent color, and one print. Black and cream feel easy, but navy, chocolate brown, gray, olive, or camel can do the same job. An accent such as burgundy, cobalt, dusty pink, or green keeps the outfits from feeling like a uniform. The goal is for most tops to work with most bottoms without a lot of thinking.
 
-![A polished neutral office outfit with a blazer, simple top, and tailored trousers](https://images.unsplash.com/photo-1529139574466-a303027c1d8b?auto=format&fit=crop&w=1200&q=80)
+![Pinterest-inspired office outfit with a camel blazer, cream blouse, brown trousers, loafers, and burgundy tote](office-wear-inspiration.png)
 
 My affordable capsule usually starts with:
 
