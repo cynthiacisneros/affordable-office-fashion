@@ -10,9 +10,11 @@ I like the idea of a workwear capsule because it makes getting dressed feel easi
 
 To build one, I usually start with two neutrals, one color I really love, and maybe one print. Black and cream are easy choices, but navy, brown, gray, olive, and camel work just as well. A color like burgundy, cobalt, dusty pink, or green adds personality and keeps the outfits from looking like a uniform. From there, I look for pieces that can mix together easily. If most of my tops work with most of my pants or skirts, I know I have a good starting point.
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: flex-start;">
-  <img src="office-capsule-neutral-outfit.jpeg" alt="Affordable office capsule with a white tee, gray cardigan, navy pinstripe trousers, loafers, glasses, and gold jewelry" style="width: 46%; max-width: 320px; height: auto;" />
-  <img src="office-capsule-cream-black-outfit.jpeg" alt="Affordable office capsule with a cream sweater, black wide-leg trousers, black loafers, a black tote, and a classic watch" style="width: 46%; max-width: 320px; height: auto;" />
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; max-width: 680px;">
+  <img src="office-capsule-neutral-outfit.jpeg" alt="Affordable office capsule with a white tee, gray cardigan, navy pinstripe trousers, loafers, glasses, and gold jewelry" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;" />
+  <img src="office-capsule-cream-black-outfit.jpeg" alt="Affordable office capsule with a cream sweater, black wide-leg trousers, black loafers, a black tote, and a classic watch" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;" />
+  <img src="office-capsule-mint-burgundy-look.jpeg" alt="Office outfit with a mint sweater, blue shirt, burgundy wide-leg trousers, burgundy shoulder bag, and pointed shoes" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;" />
+  <img src="office-capsule-marsala-cardigan-look.jpeg" alt="Office outfit with a marsala cardigan, white top, gray trousers, burgundy shoes, and a classic watch" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;" />
 </div>
 
 Here is the simple mix I would start with for an affordable capsule:
