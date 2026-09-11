@@ -12,7 +12,7 @@ I usually build around two neutral colors, one accent color, and one print. Blac
 
 ![Affordable office capsule with a white tee, gray cardigan, navy pinstripe trousers, loafers, glasses, and gold jewelry](office-capsule-neutral-outfit.jpeg)
 
-![Affordable office capsule with a burgundy top, navy pinstripe trousers, brown Mary Jane shoes, and a canvas tote](office-capsule-burgundy-outfit.jpeg)
+![Affordable office capsule with a cream sweater, black wide-leg trousers, black loafers, a black tote, and a classic watch](office-capsule-cream-black-outfit.jpeg)
 
 My affordable capsule usually starts with:
 
