@@ -12,7 +12,7 @@ I like a breathable base, a light middle layer, and one polished top layer. A fi
 
 ### What I keep at my desk
 
-I keep a neutral cardigan and a compact scarf nearby. They work with most of my [[building-a-workwear-capsule|capsule pieces]] and do not take up much room. A cardigan is especially useful when I want to stay warm without adding bulk under a coat. If my outfit already has a bright color from [[color-pairing-for-the-office|my color plan]], I choose a quiet layer so the whole look stays balanced.
+I keep a neutral cardigan and a blazer nearby. They work with most of my [[building-a-workwear-capsule|capsule pieces]] and make it easy to adjust my outfit for meetings or a cold office. A cardigan is especially useful when I want to stay warm without adding bulk under a coat. If my outfit already has a bright color from [[color-pairing-for-the-office|my color plan]], I choose a quiet layer so the whole look stays balanced.
 
 For a normal workday, I check these details before leaving:
 
