@@ -4,7 +4,7 @@ title: Desk-to-Dinner Outfit Formulas
 
 # Desk-to-Dinner Outfit Formulas
 
-Some of my favorite outfits need to work past five o'clock. I do not want to carry a second outfit or feel overdressed at my desk, so I start with a professional base and plan one easy switch for the evening. The switch might be a shoe, a lipstick, a statement earring, or a jacket. This approach keeps the wardrobe affordable because each piece has more than one use.
+Some days I need my outfit to work past five o'clock. I do not want to carry a whole second outfit or feel overdressed at my desk, so I start with a simple work base and plan one easy change for later. It might be switching shoes, adding lipstick, putting on bigger earrings, or taking off a jacket. This keeps my wardrobe affordable because each piece gets used more often.
 
 ## Four formulas I actually use
 
@@ -15,6 +15,6 @@ Some of my favorite outfits need to work past five o'clock. I do not want to car
 
 ### Plan the transition before buying
 
-I look for clothes that do not need a total styling reset. A shirt that only works with one pair of pants is harder to use, while one from my [[building-a-workwear-capsule|capsule]] can become several outfits. I also keep the color story from [[color-pairing-for-the-office|my color pairing notes]] in mind so the accessories I own do not fight the outfit.
+I look for clothes that do not need a complete styling reset. A shirt that only works with one pair of pants is harder to use, while a shirt from my [[building-a-workwear-capsule|capsule]] can become several outfits. I also remember my [[color-pairing-for-the-office|color pairing notes]] so the accessories I already own work with the outfit.
 
-The most important test is comfort. If I cannot sit, walk, or eat comfortably, I will not enjoy the evening. I use the [[fit-and-comfort-checklist|fit checklist]] before leaving and carry a layer from [[layering-for-changing-temperatures|my layering plan]] when the restaurant or theater might be cold. A few smart changes should make the outfit feel new, not make me feel like I am wearing a costume.
+The biggest test is comfort. If I cannot sit, walk, or eat comfortably, I am not going to enjoy the evening. I use the [[fit-and-comfort-checklist|fit checklist]] before leaving and bring a layer from [[layering-for-changing-temperatures|my layering plan]] if the restaurant or theater might be cold. A couple of small changes should make the outfit feel fresh, not like I changed into a costume.

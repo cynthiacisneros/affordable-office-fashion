@@ -4,17 +4,17 @@ title: Building a Workwear Capsule
 
 # Building a Workwear Capsule
 
-A workwear capsule is not a closet full of beige clothes. To me, it is a short list of pieces that can do more than one job, so getting dressed is easier and my budget goes further. I would rather own one blazer that works with trousers, jeans on a casual Friday, and a simple dress than buy three pieces that only make one outfit.
+A workwear capsule does not have to mean owning a closet full of beige clothes. To me, it just means having a few pieces that I can wear in more than one way. That makes getting dressed faster and helps me spend my money more carefully. I would much rather have one blazer that works with trousers, jeans on a casual Friday, and a dress than buy three things I can only wear once in a while.
 
 ## My starting formula
 
-I usually build around two neutral colors, one accent color, and one print. Black and cream feel easy, but navy, chocolate brown, gray, olive, or camel can do the same job. An accent such as burgundy, cobalt, dusty pink, or green keeps the outfits from feeling like a uniform. The goal is for most tops to work with most bottoms without a lot of thinking.
+I usually start with two neutral colors, one color I really like, and maybe one print. Black and cream are easy, but navy, brown, gray, olive, and camel work just as well. Adding one color like burgundy, cobalt, dusty pink, or green keeps everything from looking like a uniform. My main goal is simple: most of my tops should work with most of my pants or skirts without me having to overthink it.
 
 ![Affordable office capsule with a white tee, gray cardigan, navy pinstripe trousers, loafers, glasses, and gold jewelry](office-capsule-neutral-outfit.jpeg)
 
 ![Affordable office capsule with a cream sweater, black wide-leg trousers, black loafers, a black tote, and a classic watch](office-capsule-cream-black-outfit.jpeg)
 
-My affordable capsule usually starts with:
+Here is what I would start with for an affordable capsule:
 
 - one structured blazer or cardigan
 - two comfortable pairs of work pants
@@ -25,6 +25,6 @@ My affordable capsule usually starts with:
 
 ### Make every piece earn its space
 
-Before buying, I ask whether a new item works with at least three things I already own. I also think about the days I actually have: commuting, sitting at a desk, presentations, and grabbing coffee after work. This is where the [[fit-and-comfort-checklist|fit and comfort checklist]] matters. A beautiful piece that pinches when I sit is not a good bargain.
+Before I buy anything, I ask myself if it works with at least three things I already own. I also think about what my days are really like: commuting, sitting at a desk, going to meetings, and sometimes getting coffee after work. This is why I use the [[fit-and-comfort-checklist|fit and comfort checklist]]. A cute piece that pinches when I sit is not a good deal.
 
-The capsule also makes styling less repetitive. I can change the mood with [[color-pairing-for-the-office|color pairing]], add a layer for a cold office with [[layering-for-changing-temperatures|smart layering]], or turn the same base into a [[desk-to-dinner-outfit-formulas|desk-to-dinner outfit]].
+The capsule also keeps me from feeling like I am wearing the exact same outfit every day. I can change it with [[color-pairing-for-the-office|color pairing]], add a layer when the office is freezing with [[layering-for-changing-temperatures|smart layering]], or use the same base for a [[desk-to-dinner-outfit-formulas|desk-to-dinner outfit]].
