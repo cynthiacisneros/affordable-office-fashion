@@ -19,13 +19,13 @@ To build one, I usually start with two neutrals, one color I really love, and ma
 
 ## Office style references
 
-This photo of women arriving at an office is a useful reminder that a polished work outfit starts with pieces that feel practical for the whole day. The image is by Verne Ho and is available through Wikimedia Commons as a CC0/public-domain work.
+This original flat lay is closer to how I think about affordable office styling: a few versatile basics can create a polished outfit without looking expensive or overly formal. A navy blazer, cream knit, dark trousers, loafers, canvas tote, and burgundy cardigan can be mixed into several looks and added slowly as the budget allows.
 
-![[assets/office-fashion.jpg]]
+![[assets/affordable-office-capsule.png]]
 
-For more background on how clothing shapes perceptions of professionalism, I also saved the open-access study *What to wear? The influence of attire on the perceived professionalism of dentists and lawyers*. Its discussion of professional, formal, smart, and casual dress gives me useful context when I am deciding how dressed up an outfit needs to be.
+I also saved Imogen Lamport's *5 Step Formula for a Fabulous Wardrobe Even on a Budget* because it is directly about creating a practical wardrobe without overspending. The guide is useful when I want to plan purchases, make the clothes I already own work harder, and build a capsule gradually instead of buying a whole new closet at once.
 
-![[assets/professional-attire-study.pdf]]
+![[assets/budget-friendly-wardrobe-formula.pdf]]
 
 Here is the simple mix I would start with for an affordable capsule:
 
