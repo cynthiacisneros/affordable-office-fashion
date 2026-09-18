@@ -17,6 +17,16 @@ To build one, I usually start with two neutrals, one color I really love, and ma
   <img src="office-capsule-marsala-cardigan-look.jpeg" alt="Office outfit with a marsala cardigan, white top, gray trousers, burgundy shoes, and a classic watch" style="width: 100%; aspect-ratio: 3 / 4; object-fit: cover; border-radius: 6px;" />
 </div>
 
+## Office style references
+
+This photo of women arriving at an office is a useful reminder that a polished work outfit starts with pieces that feel practical for the whole day. The image is by Verne Ho and is available through Wikimedia Commons as a CC0/public-domain work.
+
+![[assets/office-fashion.jpg]]
+
+For more background on how clothing shapes perceptions of professionalism, I also saved the open-access study *What to wear? The influence of attire on the perceived professionalism of dentists and lawyers*. Its discussion of professional, formal, smart, and casual dress gives me useful context when I am deciding how dressed up an outfit needs to be.
+
+![[assets/professional-attire-study.pdf]]
+
 Here is the simple mix I would start with for an affordable capsule:
 
 - one structured blazer or cardigan
