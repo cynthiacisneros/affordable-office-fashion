@@ -6,7 +6,7 @@ I chose [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) because it is a pub
 
 ## 1. Primary resources
 
-The main resources are encyclopedia articles, such as [Fashion](https://en.wikipedia.org/wiki/Fashion), [Capsule wardrobe](https://en.wikipedia.org/wiki/Capsule_wardrobe), and [Office work](https://en.wikipedia.org/wiki/Office_work). Each article can include an introduction, headings, images, an infobox, tables, citations, and a list of references. These pieces make the information easier to scan and understand.
+The main resources are encyclopedia articles, such as [Fashion](https://en.wikipedia.org/wiki/Fashion), [Capsule wardrobe](https://en.wikipedia.org/wiki/Capsule_wardrobe), and [Office work](https://en.wikipedia.org/wiki/Office_work). Each article can include headings, images, an infobox, tables, citations, and references.
 
 Wikipedia also organizes resources that support the articles. Every page can have a Talk page for discussion and a History page that shows how the page has changed. Category pages, navigation templates, and links to other Wikimedia projects add more ways to explore.
 
@@ -14,7 +14,7 @@ Wikipedia also organizes resources that support the articles. Every page can hav
 
 The system supports searching, browsing, research, and fact-checking. If I already know what I am looking for, I can search for it directly. If I am still figuring out a topic, I can start at the Main Page, use the [Contents](https://en.wikipedia.org/wiki/Wikipedia:Contents) page, or follow links from one article to another. An article's table of contents also helps me jump to the section I need instead of reading every line.
 
-Wikipedia is useful for checking information because claims often link to inline citations and a References section. For example, if I were researching affordable office fashion, I could start with *Fashion*, follow a link to *Capsule wardrobe*, and then open the references behind a claim about clothing or consumption. More experienced users can compare revisions, read Talk page discussions, or edit an article.
+Wikipedia is useful for checking information because claims often link to inline citations and a References section. For example, if I were researching affordable office fashion, I could start with *Fashion*, follow a link to *Capsule wardrobe*, and then open the references behind a claim about clothing or consumption. Users can also compare revisions, read Talk page discussions, or edit an article.
 
 ## 3. Classification system
 
