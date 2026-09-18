@@ -2,7 +2,7 @@
 
 ## The collection I chose
 
-I chose [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) because it is a public knowledge base I use for a quick starting point in research. It is a huge, collaboratively edited encyclopedia, but it does not feel like one giant list. It gives readers several ways to find information and check where a claim came from.
+I chose [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) because it is a public knowledge base I use for a starting point in research. It is a huge, collaboratively edited encyclopedia, but it does not feel like one giant list. It gives readers ways to find information and check where a claim came from.
 
 ## 1. Primary resources
 
