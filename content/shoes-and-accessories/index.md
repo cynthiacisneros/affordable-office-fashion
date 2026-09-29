@@ -1,5 +1,6 @@
 ---
 title: Shoes and Accessories
+date: 2026-09-29
 ---
 
 # Shoes and Accessories
@@ -53,3 +54,5 @@ My [[../styling-tips/fit-and-comfort-checklist|Fit and Comfort Checklist]] appli
 I would rather own a few accessories that work across several outfits than buy a different item for every look. A black loafer, simple watch, structured tote, and small gold or silver earrings can work with most of the combinations in my [[../outfit-ideas/index|Outfit Ideas]].
 
 When I want something new, I check my [[../budget-friendly-stores/index|Budget-Friendly Stores]] first and look for one item that adds variety to the pieces I already own.
+
+For a more detailed bag checklist, see [[work-bag-essentials|Work Bag Essentials]].
