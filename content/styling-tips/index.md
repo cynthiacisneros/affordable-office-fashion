@@ -1,6 +1,9 @@
 ---
 title: Styling Tips
+date: 2026-09-29
 ---
+
+# Styling Tips
 
 These are the styling things I actually think about when I want to look put together at work without spending a lot. I keep the advice simple, realistic, and easy to use on a busy morning.
 
@@ -17,3 +20,5 @@ The pages work together: I start with a small wardrobe, use color and layers to 
 ## Related Categories
 
 Good [[../wardrobe-essentials/index|wardrobe essentials]] make these tips easier to use. When I need a complete look instead of one styling idea, I connect them to my [[../outfit-ideas/index|outfit ideas]].
+
+For the sources behind the guide and its downloadable assets, see the [[../references|References]] page.
