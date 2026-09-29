@@ -1,5 +1,6 @@
 ---
 title: Wardrobe Essentials
+date: 2026-09-29
 ---
 
 # Wardrobe Essentials
@@ -42,6 +43,14 @@ I also try to picture at least three outfits using the new piece. If I cannot do
 
 ## How the pieces work together
 
-The right [[../styling-tips/index|styling tips]] are what make basic pieces feel different from day to day. I can change the color combination, add a layer, switch the shoes, or use a different bag without rebuilding the entire outfit.
+The right [[../styling-tips/index|styling tips]] are what make basic pieces feel different from day to day. I can change the color combination, add a layer, switch the shoes, or use a different bag without rebuilding the entire wardrobe.
 
 If I want to see those basics turned into complete looks, I move over to my [[../outfit-ideas/index|Outfit Ideas]]. For an even smaller starting point, [[../styling-tips/building-a-workwear-capsule|Building a Workwear Capsule]] shows how I would narrow the wardrobe down to a flexible group of pieces.
+
+## Build out the basics
+
+- [[choosing-work-pants|Choosing Work Pants]]
+- [[building-a-work-top-rotation|Building a Work-Top Rotation]]
+- [[office-dresses-and-skirts|Office Dresses and Skirts]]
+
+For sources and project assets, see the [[../references|References]] page.
