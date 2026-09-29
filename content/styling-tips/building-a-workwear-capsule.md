@@ -1,5 +1,6 @@
 ---
 title: Building a Workwear Capsule
+date: 2026-09-29
 ---
 
 # Building a Workwear Capsule
@@ -23,7 +24,7 @@ This original flat lay is closer to how I think about affordable office styling:
 
 ![[assets/affordable-office-capsule.png]]
 
-I also saved Imogen Lamport's *5 Step Formula for a Fabulous Wardrobe Even on a Budget* because it is directly about creating a practical wardrobe without overspending. The guide is useful when I want to plan purchases, make the clothes I already own work harder, and build a capsule gradually instead of buying a whole new closet at once.
+I also saved Imogen Lamport's *5 Step Formula for a Fabulous Wardrobe Even on a Budget* because it is directly about creating a practical wardrobe without overspending. The guide is useful when I want to plan purchases, make the clothes I already own work harder, and build a capsule gradually instead of buying a whole new closet at once. The original source is linked on the [[../references|References]] page.
 
 ![[assets/budget-friendly-wardrobe-formula.pdf]]
 
