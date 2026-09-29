@@ -1,5 +1,6 @@
 ---
 title: Affordable, Trendy Office Fashion for Women
+date: 2026-09-29
 ---
 
 # Affordable, Trendy Office Fashion for Women
@@ -30,3 +31,5 @@ For a good first step, I recommend starting with [[styling-tips/building-a-workw
 ## About this project
 
 This knowledge base was created by Cynthia Cisneros as a practical collection of affordable office-fashion ideas. You can learn more on the [[About|About Me]] page.
+
+For the sources and project assets used throughout the guide, see the [[references|References]] page.
