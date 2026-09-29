@@ -1,5 +1,6 @@
 ---
 title: Color Pairing for the Office
+date: 2026-09-29
 ---
 
 # Color Pairing for the Office
@@ -24,3 +25,5 @@ These are a few combinations I keep coming back to:
 4. Olive + ivory + tan for a relaxed workplace that still feels pulled together.
 
 Color should make my day easier, not give me one more thing to worry about. If I know I will be walking or standing a lot, I choose shoes from my [[fit-and-comfort-checklist|comfort checklist]]. If the weather is unpredictable, I put the strongest color in a layer I can take off, using the ideas in [[layering-for-changing-temperatures|Layering for Changing Temperatures]].
+
+See [[../references|References]] for the sources and project assets used in this guide.
