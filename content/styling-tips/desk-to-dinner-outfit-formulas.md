@@ -1,5 +1,6 @@
 ---
 title: Desk-to-Dinner Outfit Formulas
+date: 2026-09-29
 ---
 
 # Desk-to-Dinner Outfit Formulas
@@ -18,3 +19,5 @@ Some days I need my outfit to work past five o'clock. I do not want to carry a w
 I look for clothes that do not need a complete styling reset. A shirt that only works with one pair of pants is harder to use, while a shirt from my [[building-a-workwear-capsule|capsule]] can become several outfits. I also remember my [[color-pairing-for-the-office|color pairing notes]] so the accessories I already own work with the outfit.
 
 The biggest test is comfort. If I cannot sit, walk, or eat comfortably, I am not going to enjoy the evening. I use the [[fit-and-comfort-checklist|fit checklist]] before leaving and bring a layer from [[layering-for-changing-temperatures|my layering plan]] if the restaurant or theater might be cold. A couple of small changes should make the outfit feel fresh, not like I changed into a costume.
+
+See [[../references|References]] for the project sources and assets.
