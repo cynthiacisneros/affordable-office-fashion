@@ -1,5 +1,6 @@
 ---
 title: Fit and Comfort Checklist
+date: 2026-09-29
 ---
 
 # Fit and Comfort Checklist
@@ -23,3 +24,5 @@ I try things on with the kind of undergarment and shoes I will really wear. Then
 Good fit does not always mean buying a smaller size. Sometimes the better choice is sizing up and having the waist or hem adjusted. I compare the alteration cost with the price of the garment, then ask myself if I will wear it enough to make that worth it. This keeps my [[building-a-workwear-capsule|capsule]] focused on pieces I will actually use.
 
 Fit also changes how I style an outfit. A relaxed blazer might look better with a tucked top or belt, while a fitted sweater can balance out wider pants. I use [[layering-for-changing-temperatures|layers]] and [[color-pairing-for-the-office|color]] to finish the look, and I use these checks before wearing anything from my [[desk-to-dinner-outfit-formulas|desk-to-dinner formulas]].
+
+See [[../references|References]] for the project sources and assets.
