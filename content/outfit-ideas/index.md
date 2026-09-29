@@ -1,5 +1,6 @@
 ---
 title: Outfit Ideas
+date: 2026-09-29
 ---
 
 # Outfit Ideas
@@ -49,3 +50,9 @@ For days when I have plans after work, I would rather make a few small changes t
 I rotate one element at a time. The same black trousers can work with a cream sweater one day, a blue button-down another day, and a burgundy cardigan later in the week. That is why I care more about mix-and-match pieces than owning a huge number of clothes.
 
 When I need a starting point, I go back to [[../wardrobe-essentials/index|Wardrobe Essentials]]. If the weather is the problem instead of the outfit itself, I use [[../seasonal-style/index|Seasonal Style]] to adjust the same formula instead of starting over.
+
+## Plan a first week
+
+If I am starting a new job or just tired of making decisions, I use a simple five-day rotation. The [[first-week-outfit-rotation|First-Week Outfit Rotation]] page gives me a realistic way to reuse pieces without repeating the exact same look.
+
+I also use the [[dress-code-cheat-sheet|Dress-Code Cheat Sheet]] when I am unsure how formal an outfit needs to be.
