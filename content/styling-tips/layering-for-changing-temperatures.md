@@ -1,5 +1,6 @@
 ---
 title: Layering for Changing Temperatures
+date: 2026-09-29
 ---
 
 # Layering for Changing Temperatures
@@ -26,3 +27,5 @@ Before I leave for a normal workday, I check a few things:
 I only roll or push up my outer sleeves when the layer underneath looks neat. Showing a little cuff or a different color makes the outfit look intentional. I also repeat one small detail, like gold jewelry or a leather belt, to make the layers feel connected.
 
 Layering should make my workday easier, not leave me carrying a pile of clothes. If I have plans after work, I use a blazer or cardigan from the [[desk-to-dinner-outfit-formulas|desk-to-dinner formulas]] page and check that I can move comfortably with the [[fit-and-comfort-checklist|fit checklist]].
+
+See [[../references|References]] for the project sources and assets.
